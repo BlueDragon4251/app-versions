@@ -1,0 +1,12 @@
+{
+    "latestVersion": "1.0.0",
+    "minVersion": "1.0.0",
+    "currentVersion": "1.0.0",
+    "forceUpdate": false,
+    "message": "Neue Version 1.0.0 verfügbar",
+    "changelog": [
+        "Neue Funktionen hinzugefügt",
+        "Fehler behoben",
+        "Performance verbessert"
+    ],
+    "downloadUrl": "bluedragon.netlify.app/download/apps/BudgetBuddy.apk"
