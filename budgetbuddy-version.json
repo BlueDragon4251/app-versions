@@ -1,16 +1,17 @@
 {
-    "latestVersion": "2.0.0",
+    "latestVersion": "2.1.0",
     "minVersion": "1.0.0",
-    "currentVersion": "2.0.0",
+    "currentVersion": "2.1.0",
     "forceUpdate": false,
-    "message": "Neue Version 2.0.0 verfügbar",
+    "message": "Neue Version 2.1.0 verfügbar",
     "changelog": [
         "Landscape Mode support",
         "Kategorien Bug gefixt",
         "Kategorien hinzugefügt",
         "Manuell Kategorien hinzufügen",
         "Einzelne Transaktionen löschen",
-        "Backup Export und Wiederherstellen Bug gefixt"
+        "Backup Export und Wiederherstellen Bug gefixt",
+        "fallback Für Update Dialog"
     ],
     "downloadUrl": "bluedragon42.netlify.app/"
 }
